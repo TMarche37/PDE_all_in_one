@@ -1,0 +1,8 @@
+elliptic_2D -> exam2
+elliptic1D -> lab2
+parabolic1D -> exam7-3 (more 3)
+parabolic2d -> exam1
+steadyStokes2D -> exam7
+nonLinearElliptic3D -> lab7
+nonLinearParabolic2D -> lab8
+vectorial3D -> lab7

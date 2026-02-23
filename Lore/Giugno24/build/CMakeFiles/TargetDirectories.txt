@@ -1,0 +1,4 @@
+/mnt/c/Users/Lorenzo/Desktop/POLIMI/MAGISTRALE/1_anno/PrimoSemestre/PDE/Prove_Esame/Giugno24/build/CMakeFiles/exercise-01.dir
+/mnt/c/Users/Lorenzo/Desktop/POLIMI/MAGISTRALE/1_anno/PrimoSemestre/PDE/Prove_Esame/Giugno24/build/CMakeFiles/exercise-02.dir
+/mnt/c/Users/Lorenzo/Desktop/POLIMI/MAGISTRALE/1_anno/PrimoSemestre/PDE/Prove_Esame/Giugno24/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lorenzo/Desktop/POLIMI/MAGISTRALE/1_anno/PrimoSemestre/PDE/Prove_Esame/Giugno24/build/CMakeFiles/rebuild_cache.dir

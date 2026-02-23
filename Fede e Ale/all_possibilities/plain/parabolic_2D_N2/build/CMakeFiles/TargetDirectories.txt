@@ -1,0 +1,4 @@
+/home/federico/Desktop/Shared/polimi_4_1/PDE/PDE_Exam/all_possibilities/plain/parabolic_2D_N2/build/CMakeFiles/main.dir
+/home/federico/Desktop/Shared/polimi_4_1/PDE/PDE_Exam/all_possibilities/plain/parabolic_2D_N2/build/CMakeFiles/remove_vtu_files.dir
+/home/federico/Desktop/Shared/polimi_4_1/PDE/PDE_Exam/all_possibilities/plain/parabolic_2D_N2/build/CMakeFiles/edit_cache.dir
+/home/federico/Desktop/Shared/polimi_4_1/PDE/PDE_Exam/all_possibilities/plain/parabolic_2D_N2/build/CMakeFiles/rebuild_cache.dir

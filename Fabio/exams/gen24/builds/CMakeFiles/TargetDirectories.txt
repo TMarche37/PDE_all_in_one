@@ -1,0 +1,3 @@
+/home/jellyfish/shared-folder/nmpde-labs-aa-25-26/exams/gen24/builds/CMakeFiles/stokes.dir
+/home/jellyfish/shared-folder/nmpde-labs-aa-25-26/exams/gen24/builds/CMakeFiles/edit_cache.dir
+/home/jellyfish/shared-folder/nmpde-labs-aa-25-26/exams/gen24/builds/CMakeFiles/rebuild_cache.dir
